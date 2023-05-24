@@ -1,0 +1,59 @@
+.game-whole {
+  display: flex;
+  flex-direction: row;
+}
+.carte1 img {
+  width: 25%;
+  margin: 0%;
+  padding: 0%;
+  position: absolute;
+}
+.carte2 img {
+  display: flex;
+
+  width: 25%;
+  margin-left: 30%;
+  padding: 0%;
+  position: absolute;
+}
+.carte3 img {
+  display: flex;
+
+  width: 25%;
+  margin-left: 60%;
+  padding: 0%;
+  position: absolute;
+}
+.carte4 img {
+  display: flex;
+
+  width: 25%;
+  margin-top: 40%;
+  padding: 0%;
+  position: absolute;
+}
+.carte5 img {
+  display: flex;
+  width: 25%;
+  margin-top: 40%;
+  margin-left: 30%;
+  padding: 0%;
+  position: absolute;
+}
+.carte6 img {
+  display: flex;
+
+  width: 25%;
+  margin-top: 40%;
+  margin-left: 60%;
+  padding: 0%;
+  position: absolute;
+}
+.img1,
+.img2,
+.img3,
+.img4,
+.img5,
+.img6 {
+  visibility: visible;
+}
